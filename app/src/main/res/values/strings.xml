@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Magic Ball</string>
+    <string name="main_text">Make Decisions Easy With Magic Ball!</string>
+    <string name="but_Ask">Shake</string>
+    <string name="dis">A picture</string>
+</resources>
